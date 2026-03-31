@@ -1,4 +1,6 @@
-# Canterbury HQ Simulator v2.0
+# Canterbury HQ Simulator
+
+![Canterbury HQ Simulator]((office.png))
 
 A first-person 3D office simulator where you explore Canterbury's headquarters, interact with AI co-founders, collect research papers, and learn about AI safety and alignment.
 
