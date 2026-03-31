@@ -43,7 +43,7 @@ A first-person 3D office simulator where you explore Canterbury's headquarters, 
    ```
 
 2. **Open in browser**
-   Simply open `Canterbury_office_simulator.html` in your web browser
+   Simply open `office_simulator.html` in your web browser
 
 3. **Click "Enter the Office"** to start exploring!
 
@@ -64,8 +64,8 @@ A first-person 3D office simulator where you explore Canterbury's headquarters, 
 
 ```
 Canterbury-office-simulator/
-├── Canterbury_office_simulator.html    # Main HTML file with UI and styles
-├── Canterbury_office_simulator.inline.js  # Game logic and JavaScript
+├── office_simulator.html    # Main HTML file with UI and styles
+├── office_simulator.inline.js  # Game logic and JavaScript
 └── README.md                          # This file
 ```
 
@@ -75,21 +75,6 @@ Canterbury-office-simulator/
 - **Three.js r128**: 3D rendering engine
 - **Web Speech API**: Text-to-speech for NPC dialogue
 - **Vanilla JavaScript**: No frameworks required
-
-### Browser Compatibility
-| Browser | Supported |
-|---------|-----------|
-| Chrome | ✅ Full support |
-| Firefox | ✅ Full support |
-| Edge | ✅ Full support |
-| Safari | ✅ Full support |
-| Mobile | ⚠️ Limited (no keyboard controls) |
-
-### Performance
-- Optimized for 60 FPS on modern hardware
-- Shadow mapping for realistic lighting
-- Efficient NPC pathfinding and animation
-- Minimal memory footprint
 
 ## 🎯 Quests
 
