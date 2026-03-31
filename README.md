@@ -38,8 +38,8 @@ A first-person 3D office simulator where you explore Canterbury's headquarters, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Canterbury-office-simulator.git
-   cd Canterbury-office-simulator
+   git clone https://github.com/MukandKrishna/3D-Virtual-office.git
+   cd 3D-Virtual-office
    ```
 
 2. **Open in browser**
@@ -96,7 +96,7 @@ Canterbury-office-simulator/
 ## 🎨 Customization
 
 ### Changing NPC Behavior
-Edit the `FOUNDERS` array in `Canterbury_office_simulator.inline.js` to modify:
+Edit the `FOUNDERS` array in `office_simulator.inline.js` to modify:
 - NPC names and roles
 - Dialogue and greetings
 - Quiz questions and answers
